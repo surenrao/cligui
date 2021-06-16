@@ -8,4 +8,6 @@ CLI 2 GUI
 - first iteration use Linux cheatsheet.
 - can try autocomplete options as u type
 - split screen where top is GUI and below is terminal output.
-- goal is should be easy with cool UI, not overwhelming.
+- goal is, design should be easy with cool UI, not overwhelming to users.
+- Main goal to generate the command on terminal based on GUI input
+- It’s for newbies who don’t like/afraid of terminal.
