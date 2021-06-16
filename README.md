@@ -10,4 +10,10 @@ CLI 2 GUI
 - split screen where top is GUI and below is terminal output.
 - goal is, design should be easy with cool UI, not overwhelming to users.
 - Main goal to generate the command on terminal based on GUI input
-- It’s for newbies who don’t like/afraid of terminal.
+- It’s for newbies who are afraid or don’t like terminal.
+
+## Tools and lib
+- GitHub pages for hosting
+- Angular v12
+- tailwindcss
+- https://github.com/yargs/yargs
