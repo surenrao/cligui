@@ -12,7 +12,9 @@ CLI 2 GUI
 - Main goal to generate the command on terminal based on GUI input
 - It’s for newbies who are afraid or don’t like terminal.
 - Future feature: UI for config files (internally fill all required options and spit out the file)
-
+- search stackoverflow for most asked question and provide ui for that
+- plugin / modular app, where each command/config can be installed later
+- example webmin, puphpet
 ## Tools and lib
 - GitHub pages for hosting
 - Angular v12
