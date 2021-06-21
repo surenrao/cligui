@@ -11,6 +11,7 @@ CLI 2 GUI
 - goal is, design should be easy with cool UI, not overwhelming to users.
 - Main goal to generate the command on terminal based on GUI input
 - It’s for newbies who are afraid or don’t like terminal.
+- Future feature: UI for config files (internally fill all required options and spit out the file)
 
 ## Tools and lib
 - GitHub pages for hosting
