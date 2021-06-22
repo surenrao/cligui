@@ -14,7 +14,7 @@ CLI 2 GUI
 - Future feature: UI for config files (internally fill all required options and spit out the file)
 - search stackoverflow for most asked question and provide ui for that
 - plugin / modular app, where each command/config can be installed later
-- example webmin, puphpet
+- example webmin, puphpet, [nginx config](https://www.digitalocean.com/community/tools/nginx), http://clihelper.com/
 ## Tools and lib
 - GitHub pages for hosting
 - Angular v12
